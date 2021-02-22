@@ -23,11 +23,11 @@ $(function() {
     });
   
     $(".create-form").on("submit", function(event) {
-      // Make sure to preventDefault on a submit event.
+
       event.preventDefault();
       
       if ($("#Bg").val().trim()==="" || $("#Bg").val().trim()===" " || $("#Bg").val().trim()== null) {
-        alert("Please Enter a valid Burger's name!")  
+        alert(" Enter A valid name !")  
       } else {
       var newBurger = {
         burger_name: $("#Bg").val().trim(),

@@ -4,7 +4,7 @@
 
 ## Description
 
-It is a burger logger application that use MySQL, Node, Express and Handlebars to generate the HTML. It also follow the MVC design pattern. 
+It is a burger logger application that uses MySQL, Node, Express and Handlebars to generate the HTML. It also follow the MVC design pattern. 
 
 
 
