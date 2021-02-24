@@ -1,7 +1,6 @@
 # Burger App  
 
 
-
 ## Description
 
 It is a burger logger application that uses MySQL, Node, Express and Handlebars to generate the HTML. It follows the MVC design pattern as well.
@@ -13,7 +12,7 @@ It is a burger logger application that uses MySQL, Node, Express and Handlebars 
 
 ## LINK TO Deployed App
 
--  [burger]()
+-  [burger](https://dry-thicket-48234.herokuapp.com/)
 
 
 ## Screen-shot
